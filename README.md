@@ -1,7 +1,7 @@
 # intelligent-classification-of-household-waste
 English | [中文](./README.zh-CN.md) 
 
-A repo to store my race code.(The 7th National College Students Engineering Training comprehensive ability Competition, China)
+A repo to store my race code.(The 10th Shanghai Engineering Training Comprehensive Ability Competition for Undergraduates, China)
 
 ## Project Introduction
 This project is a contestant work for the "7th National College Students' Engineering Training Comprehensive Ability Competition Selection" and is an intelligent waste classification system based on deep learning. The main work involves preprocessing the living waste dataset and pre-training a model using deep learning methods. It also involves using PyQt5 for interface design to realize the visualization of the intelligent waste classification system. Finally, it coordinates with a microcontroller to link the mechanical structure, achieving the automated operation of the intelligent waste classification system.
